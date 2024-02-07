@@ -3,7 +3,14 @@
 **Enthusiast web developer** 
 <br>
 <br>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/next.js-000?style=for-the-badge&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
+<img src="https://img.shields.io/badge/next.js-000?style=for-the-badge&logo=next.js&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/laravel-FB6E45?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/docker-2E5BFF?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/shopify-96BF47?style=for-the-badge&logo=shopify&logoColor=white" />
+
 <br>
 
 
@@ -12,17 +19,15 @@
   ## About me &#128513;
   <p>
   <b>
-  I am TrungDP a lover of technology &#128525; passionate about front-end development, I work on my projects with Vue/Nuxt a front framework that I really like.
-  I'm currently learning Reactjs and Nodejs.
-  i like to learn new technology and update myself. i also like to contribute in open sources projects
-
-
-  working with you is already a pleasure for me &#128519;
+Welcome to my GitHub! 👋  I'm an enthusiastic Full-Stack Developer with a passion for creation and over 4 years of experience. My expertise spans ReactJS, NextJs, NodeJS, PHP, Docker, and Shopify, where I excel at building innovative solutions from the ground up. Driven by curiosity and a love for tech, I'm constantly exploring new ideas to bring digital creations to life. Let's dive into the world of endless possibilities together!
   </b>
+  
   </p>
 
-- 🔭 I’m currently Hacking with ReactJs/NodeJs/Express/TS
-- 🌱 I’m currently learning ReactJS && Node/express && TS
+- 🔭 My frontend stack: ReactJs/Nextjs/VueJS/RemixJs
+- 🌱 My backend stack: NodeJS/NestJS/Laravel
+- 🔭 Others: Docker/AWS/Linux
+- 🌱 I also have strong points: Learning/Research
 
 <br>
 
